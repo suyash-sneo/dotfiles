@@ -220,6 +220,14 @@ nmap :ll<CR> :lclose<CR>
 
 
 
+" ******************* SET TERMINAL TO TRANSPARENT *********************
+"
+hi Normal guifg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Empty guifg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi EndOfBuffer ctermbg=NONE guibg=NONE
+"
+" *********************************************************************
+
 
 
 
