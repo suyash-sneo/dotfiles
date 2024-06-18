@@ -1,0 +1,1 @@
+- To install js COC server, run `:CocInstall coc-tsserver`
