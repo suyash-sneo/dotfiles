@@ -77,6 +77,7 @@ endfunction
 nnoremap <silent> K :call ShowDocumentation()<CR>
 
 nnoremap <space>d :CocDiagnostics<CR>
+nnoremap <space>f :call CocActionAsync('format')<CR>
 
 "
 " *******************************************************************
